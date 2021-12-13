@@ -1,5 +1,5 @@
 # Discordbot
-A Discord bot that let you play Tic-Tac-Toe with your friends!
+A Discord bot that will let you play Tic-Tac-Toe with your friends!
 
 Commands:
 1. !ttt start: To start a new game you must use this command.
